@@ -71,6 +71,10 @@ Best Validation Dice: 0.7234
 📊 Model Performance
 ModelDice ScoreSpeedParametersBaseline UNet0.523s16MSegResNet0.70-0.754s18MImprovement+38%-25%+12%
 
+Results
+Performance Metrics
+ModelDice ScoreParametersSpeedUNet (Baseline)0.5216M3sSegResNet0.70-0.7518M4sImprovement+38%+12%-25%
+
 🖥️ Streamlit App Features
  Interactive Interface
 
